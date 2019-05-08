@@ -1,0 +1,4225 @@
+﻿{
+	"GenericData": {
+		"Header": {
+			"Table": {
+				"_Id": "NA8102A8A",
+				"_Name": "國內生產毛額貢獻度─依行業分-年",
+				"_Domain": "NA"
+			},
+			"Prepared": "2018-02-13T16:47:25.4789666+08:00",
+			"Sender": {
+				"Contact": {
+					"_Name": "*",
+					"_Telephone": "*",
+					"_Fax": "*",
+					"_Email": "*"
+				},
+				"_Name": "行政院主計總處"
+			}
+		},
+		"DataSet": {
+			"Series": [
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0.24"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.2"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.08"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.11"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.38"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "-0.04"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "-0.09"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.11"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "-0.16"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "0.13"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "-0.04"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "-0.05"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "-0.19"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.08"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "-0.09"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.15"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "-0.09"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "-0.06"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.2"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "-0.04"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "-0.05"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "-0.15"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "-0.17"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0.11"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "A.農、林、漁、牧業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "-0.01"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "-0.03"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "-0.01"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "-0.03"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "-0.03"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "-0.03"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "-0.01"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "-0.05"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "-0.03"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "-0.01"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "-0.01"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "-0.01"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "B.礦業及土石採取業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "5.07"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "4.98"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.37"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "6.3"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "3.95"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "1.22"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "1.6"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "-0.54"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "1.8"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "1.47"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "1.13"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "1.9"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "1.7"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "1.6"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "1.86"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.73"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "2.06"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "2.38"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "-1.76"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "2.83"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "2.83"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "2.87"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "2.36"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "2.11"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "3.58"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "-0.69"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "6.06"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "1.97"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "1.07"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.48"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "2.35"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "-0.08"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.92"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "1.33"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "C.製造業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0.43"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.28"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.19"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.63"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.38"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "0.27"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.41"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0.35"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.22"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0.21"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "0.18"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "0.13"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.2"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "-0.08"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.15"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "-0.1"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "-0.1"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "D.電力及燃氣供應業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.08"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "-0.01"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0.02"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "E.用水供應及污染整治業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "-0.2"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.18"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.22"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.33"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.42"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "0.5"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.32"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.16"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0.37"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.5"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0.35"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "-0.09"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "-0.04"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "-0.15"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "-0.35"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.08"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "-0.08"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0.17"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "-0.24"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "-0.28"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.34"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "-0.04"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "-0.04"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "F.營造業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "1.13"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "1.22"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.77"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "1.11"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "1.36"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "1.42"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "1.33"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "1.13"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "1.17"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "1.4"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "1.02"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "1.17"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "1.19"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "1.14"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "0.75"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.91"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "1.18"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "1.28"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "0.2"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.55"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "0.45"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "1.07"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "1.11"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.99"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "1.02"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "0.15"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "-0.33"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "1.1"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0.63"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "0.19"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.27"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.72"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0.6"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "G.批發及零售業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0.35"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.46"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.37"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.26"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.49"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.4"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "0.32"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.18"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.31"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0.34"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.21"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0.25"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "0.29"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "0.2"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "0.19"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.14"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.5"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0.29"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "-0.15"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.16"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0.23"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.11"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0.16"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "-0.04"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "-0.15"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.21"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.22"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0.14"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "H.運輸及倉儲業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0.19"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.21"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.27"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.15"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.2"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "0.19"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.14"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.14"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.13"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0.14"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "0.13"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "0.16"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "0.13"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.08"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.13"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0.15"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "-0.03"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0.08"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "0.11"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.22"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0.21"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0.02"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "I.住宿及餐飲業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0.3"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.21"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.25"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.24"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.33"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.2"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "0.32"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.36"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.31"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0.26"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.3"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0.3"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "0.24"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "0.28"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "0.29"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.78"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.99"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0.8"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "0.29"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.27"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "0.18"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0.21"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.14"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "0.13"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.33"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.11"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0.16"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.11"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0.05"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "J.資訊及通訊傳播業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "-0.08"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.52"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.73"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.62"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "1.22"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "1.15"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "1.96"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.85"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "-0.11"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0.84"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.77"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "1.04"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "-0.14"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "0.54"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "1.63"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.62"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0.13"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "-0.29"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.16"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "0.11"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0.56"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "0.34"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.24"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0.51"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "-0.26"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "-0.53"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.53"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0.26"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.26"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.49"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0.25"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.15"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0.3"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "K.金融及保險業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0.4"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.41"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.45"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.67"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.6"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.69"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "0.43"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.71"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.93"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0.75"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "1.05"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0.92"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "1.01"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "0.67"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "0.21"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.25"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.27"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0.44"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "-0.14"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "0.37"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0.29"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "0.34"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.64"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0.53"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "0.13"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "0.19"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.41"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0.14"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "0.15"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.25"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.17"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0.17"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0.09"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "L.不動產及住宅服務業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0.14"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.08"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "0.2"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.16"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.18"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0.2"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.17"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0.21"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "0.19"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "0.17"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "0.11"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.08"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0.08"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "-0.03"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.22"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0.16"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "-0.08"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "-0.05"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "M.專業、科學及技術服務業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "-0.01"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0.08"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "0.13"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.19"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0.13"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "-0.05"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0.05"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "N.支援服務業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0.47"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.64"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.51"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.26"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.41"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.67"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "0.66"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.81"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.72"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0.29"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.43"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0.3"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "0.62"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "0.51"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "0.14"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.17"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.21"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0.27"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "0.08"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "-0.03"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "0.19"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0.08"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "0.11"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "-0.01"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "-0.1"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.24"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "-0.05"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0.04"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "O.公共行政及國防；強制性社會安全國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0.17"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.23"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.16"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.19"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.26"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.21"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "0.21"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.26"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.47"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0.26"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.34"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0.27"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "0.32"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "0.35"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "0.28"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.19"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.22"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0.16"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "0.22"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.32"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "0.23"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0.17"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.2"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "0.11"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.11"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "-0.04"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "-0.04"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "P.教育服務業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0.11"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.13"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.29"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.17"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "0.24"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.21"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.39"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0.16"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.14"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "0.28"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "0.22"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "0.18"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.18"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.18"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0.14"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.18"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "-0.05"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0.15"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.13"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0.07"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "Q.醫療保健及社會工作服務業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.11"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.08"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0.01"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "R.藝術、娛樂及休閒服務業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0.19"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.15"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.2"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.25"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.18"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.15"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "0.25"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.18"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "-0.04"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0.29"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "0.31"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.26"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0.19"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "0.15"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.19"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "0.16"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0.11"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.13"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0.04"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "S.其他服務業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "9.02"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "10.01"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "4.6"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "10.88"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "10.93"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "7.51"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "8.62"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "4.95"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "7.34"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "6.86"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "6.79"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "7.49"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "6.37"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "6.24"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "6.05"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "3.86"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "6.69"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "6.3"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "-1.57"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "5.14"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "4.61"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "6.16"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "5.04"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "5.45"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "6.59"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "0.27"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "-1.39"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "10.21"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "4.03"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "1.93"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "1.89"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "4.39"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0.45"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "1.53"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "2.78"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "合計國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0.36"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.45"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "-0.23"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.94"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.76"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.43"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "0.4"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.13"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.39"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0.4"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.21"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "0.24"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "0.08"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "0.16"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.11"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.16"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0.22"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "-0.24"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "0.09"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0.2"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "-0.05"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "-0.13"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.27"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.05"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.06"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0.06"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "進口稅國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.54"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.18"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "0.26"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.18"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.25"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0.31"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.29"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0.12"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "-0.04"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "-0.1"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.14"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "0.2"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "0.01"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "-0.03"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "-0.07"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "-0.1"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.31"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "-0.05"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.13"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0.03"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "加值型營業稅國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "9.38"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "10.46"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "4.37"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "11.82"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "12.23"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "8.12"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "9.28"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "5.26"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "7.98"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "7.57"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "7.29"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "7.65"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "6.57"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "6.3"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "6.31"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "4"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "6.88"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "6.54"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "-1.91"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "5.37"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "4.77"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "6.56"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "5.09"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "5.45"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "6.63"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "0.15"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "-1.62"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "10.79"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "4.08"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "1.86"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "2.07"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "4.55"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0.44"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "1.65"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "2.87"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "總計(生產面)國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "9.04"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "10.05"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "4.81"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "11.52"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "12.7"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "8.02"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "8.75"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "5.65"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "8.36"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "8.29"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "6.8"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "7.49"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "6.5"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "6.18"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "6.11"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "4.21"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "6.72"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "6.42"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "-1.26"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "5.57"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "4.12"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "6.51"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "5.42"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "5.62"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "6.52"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "0.7"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "-1.57"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "10.63"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "3.8"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "2.06"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "2.2"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "4.02"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0.81"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "1.41"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "2.86"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "GDP國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "0.24"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.2"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.08"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "0.11"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.38"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.1"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "-0.04"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "-0.09"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.11"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "-0.16"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "0.13"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "-0.04"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "-0.05"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "-0.19"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "0.08"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "-0.09"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "0.15"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "-0.02"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "-0.09"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "-0.06"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "0.2"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "0"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "-0.04"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "0.04"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "0.07"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "-0.05"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.02"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "0.03"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "-0.15"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "-0.17"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "0.11"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "按三級產業分:農業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "5.38"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "5.46"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "0.56"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "6.78"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "5.01"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "2.09"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "2.42"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "-0.11"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "2.45"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "2.21"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "1.9"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "2.48"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "1.94"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "1.6"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "1.99"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "0.92"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "2.07"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "2.22"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "-2.2"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "3.1"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "2.84"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "3.21"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "2.49"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "2.24"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "3.58"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "-0.13"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "-0.89"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "6.56"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "2.03"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "1.07"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.55"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "2.4"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "-0.21"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.98"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "1.35"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "按三級產業分:工業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "3.76"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "4.8"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "3.73"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "4.93"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "6.84"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "5.93"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "6.9"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "5.33"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "5.46"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "5.45"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "5.28"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "5.33"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "4.5"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "4.74"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "4.37"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "3.27"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "4.73"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "4.28"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "0.38"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "2.12"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "1.95"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "3.44"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "2.66"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "3.01"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "3.05"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "0.28"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "-0.69"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "4.19"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "1.98"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "0.84"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "1.5"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "2.12"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0.8"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.84"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": "1.41"
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "按三級產業分:服務業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				},
+				{
+					"SeriesProperty": {
+						"Obs": [
+							{
+								"_TIME_PERIOD": "1983",
+								"_OBS_VALUE": "1.1"
+							},
+							{
+								"_TIME_PERIOD": "1984",
+								"_OBS_VALUE": "0.77"
+							},
+							{
+								"_TIME_PERIOD": "1985",
+								"_OBS_VALUE": "-0.18"
+							},
+							{
+								"_TIME_PERIOD": "1986",
+								"_OBS_VALUE": "1.15"
+							},
+							{
+								"_TIME_PERIOD": "1987",
+								"_OBS_VALUE": "0.99"
+							},
+							{
+								"_TIME_PERIOD": "1988",
+								"_OBS_VALUE": "0.45"
+							},
+							{
+								"_TIME_PERIOD": "1989",
+								"_OBS_VALUE": "0.48"
+							},
+							{
+								"_TIME_PERIOD": "1990",
+								"_OBS_VALUE": "0.42"
+							},
+							{
+								"_TIME_PERIOD": "1991",
+								"_OBS_VALUE": "0.58"
+							},
+							{
+								"_TIME_PERIOD": "1992",
+								"_OBS_VALUE": "0.47"
+							},
+							{
+								"_TIME_PERIOD": "1993",
+								"_OBS_VALUE": "0.66"
+							},
+							{
+								"_TIME_PERIOD": "1994",
+								"_OBS_VALUE": "0.93"
+							},
+							{
+								"_TIME_PERIOD": "1995",
+								"_OBS_VALUE": "1.34"
+							},
+							{
+								"_TIME_PERIOD": "1996",
+								"_OBS_VALUE": "1.14"
+							},
+							{
+								"_TIME_PERIOD": "1997",
+								"_OBS_VALUE": "1.22"
+							},
+							{
+								"_TIME_PERIOD": "1998",
+								"_OBS_VALUE": "1.63"
+							},
+							{
+								"_TIME_PERIOD": "1999",
+								"_OBS_VALUE": "2.32"
+							},
+							{
+								"_TIME_PERIOD": "2000",
+								"_OBS_VALUE": "2.66"
+							},
+							{
+								"_TIME_PERIOD": "2001",
+								"_OBS_VALUE": "-0.25"
+							},
+							{
+								"_TIME_PERIOD": "2002",
+								"_OBS_VALUE": "1.78"
+							},
+							{
+								"_TIME_PERIOD": "2003",
+								"_OBS_VALUE": "2.21"
+							},
+							{
+								"_TIME_PERIOD": "2004",
+								"_OBS_VALUE": "1.68"
+							},
+							{
+								"_TIME_PERIOD": "2005",
+								"_OBS_VALUE": "1.97"
+							},
+							{
+								"_TIME_PERIOD": "2006",
+								"_OBS_VALUE": "2.1"
+							},
+							{
+								"_TIME_PERIOD": "2007",
+								"_OBS_VALUE": "2.5"
+							},
+							{
+								"_TIME_PERIOD": "2008",
+								"_OBS_VALUE": "1.19"
+							},
+							{
+								"_TIME_PERIOD": "2009",
+								"_OBS_VALUE": "0.38"
+							},
+							{
+								"_TIME_PERIOD": "2010",
+								"_OBS_VALUE": "3.4"
+							},
+							{
+								"_TIME_PERIOD": "2011",
+								"_OBS_VALUE": "1.87"
+							},
+							{
+								"_TIME_PERIOD": "2012",
+								"_OBS_VALUE": "1.35"
+							},
+							{
+								"_TIME_PERIOD": "2013",
+								"_OBS_VALUE": "0.27"
+							},
+							{
+								"_TIME_PERIOD": "2014",
+								"_OBS_VALUE": "1.95"
+							},
+							{
+								"_TIME_PERIOD": "2015",
+								"_OBS_VALUE": "0.43"
+							},
+							{
+								"_TIME_PERIOD": "2016",
+								"_OBS_VALUE": "0.87"
+							},
+							{
+								"_TIME_PERIOD": "2017",
+								"_OBS_VALUE": ""
+							}
+						],
+						"_TableName": "國內生產毛額貢獻度─依行業分-年",
+						"_FREQ": "",
+						"_SERIESTYPE": "原始值"
+					},
+					"_ITEM": "補充項目:ICT產業國內生產毛額貢獻度-連鎖實質值(2011年為參考年)(百分點)"
+				}
+			]
+		}
+	}
+}
