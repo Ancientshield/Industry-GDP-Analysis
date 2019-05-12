@@ -26,7 +26,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h2>選取年份：<h2>
+                <a>請選取年份：</a>
                 <select name="" id="select-year">
                     <option value="2018">2018</option>
                     <option value="2017">2017</option>
@@ -153,6 +153,7 @@
                 }
                 let industrySelected = arr.join('\n')
                 return `
+                <a>選取產業別：</a>
                 <select name="" id="select-indu">
                     ${industrySelected}
                 </select>`
