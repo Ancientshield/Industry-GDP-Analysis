@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0 user-scalable=no">
@@ -19,42 +18,43 @@
     <script src="https://code.highcharts.com/modules/exporting.js"></script>
     <script src="https://code.highcharts.com/modules/export-data.js"></script>
     <style type="text/css"></style>
-    <title>2000-2018年度國內生產毛額：按產業別分類</title>
+    <title>2000-2018國內生產毛額</title>
 </head>
-
 <body>
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <a>請選取年份：</a>
-                <select name="" id="select-year">
-                    <option value="2018">2018</option>
-                    <option value="2017">2017</option>
-                    <option value="2016">2016</option>
-                    <option value="2015">2015</option>
-                    <option value="2014">2014</option>
-                    <option value="2013">2013</option>
-                    <option value="2012">2012</option>
-                    <option value="2011">2011</option>
-                    <option value="2010">2010</option>
-                    <option value="2009">2009</option>
-                    <option value="2008">2008</option>
-                    <option value="2007">2007</option>
-                    <option value="2006">2006</option>
-                    <option value="2005">2005</option>
-                    <option value="2004">2004</option>
-                    <option value="2003">2003</option>
-                    <option value="2002">2002</option>
-                    <option value="2001">2001</option>
-                    <option value="2000">2000</option>
-                </select>
+    <div class="container-fluid">
+        <div class="row justify-contant-start">
+            <div class="col-6">
+                <div class="dropdown">
+                    <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
+                        aria-haspopup="true" aria-expanded="false">請選取年份</button>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        <a class="dropdown-item">2018</a>
+                        <a class="dropdown-item">2017</a>
+                        <a class="dropdown-item">2016</a>
+                        <a class="dropdown-item">2015</a>
+                        <a class="dropdown-item">2014</a>
+                        <a class="dropdown-item">2013</a>
+                        <a class="dropdown-item">2012</a>
+                        <a class="dropdown-item">2011</a>
+                        <a class="dropdown-item">2010</a>
+                        <a class="dropdown-item">2009</a>
+                        <a class="dropdown-item">2008</a>
+                        <a class="dropdown-item">2007</a>
+                        <a class="dropdown-item">2006</a>
+                        <a class="dropdown-item">2005</a>
+                        <a class="dropdown-item">2004</a>
+                        <a class="dropdown-item">2003</a>
+                        <a class="dropdown-item">2002</a>
+                        <a class="dropdown-item">2001</a>
+                        <a class="dropdown-item">2000</a>
+                    </div>
+                </div>
             </div>
             <div class="col-12" id="pieChart-conrainer"></div>
-            <div class="user-data col-12"></div></div>
+            <div class="user-data col-6"></div>
             <div class="col-12" id="barChart-conrainer"></div>
         </div>
     </div>
-
 </body>
 <script>
     function pieChart(parameter, year) {
@@ -110,15 +110,15 @@
         });
     }
     $(document).ready(function () {
-        $('#select-year').on('change', function (event) {
+        $('.dropdown-item').on('click', function (event) {
+            let selectYear = $(this).text()
+            $('.dropdown button').text(selectYear)
             fetch(`https://raw.githubusercontent.com/Ancientshield/Demo/master/income.json`)
                 .then(function (response) {
                     //將資料轉成JSON
                     return response.json();
                 })
                 .then(function (data) {
-
-                    let selectYear = $('#select-year').val()
                     let industryArray = data.filter(({TIME_PERIOD: y, Item: n}) => (y === selectYear && /([A-Z]{1})\./.test(n) === true))
                     let result = industryArray.map(({"Item": name,"Item_VALUE": gdpString}) => ({name,y: Number.parseFloat(gdpString)}))
                     //呼叫圓餅圖
@@ -127,8 +127,9 @@
                     let html = generateIndustrySelector(industryArray)
                     $('.user-data').empty().append(html)
 
-                    $('.user-data').on('change', '#select-indu', function (event) {
-                        let selectIndustry = $('#select-indu').val();
+                    $('#select-indu .dropdown-item').on('click', function (event) {
+                        let selectIndustry = $(this).text()
+                        $('#select-btn.dropdown button').text(selectIndustry)
                         let r2 = data.filter(({ TIME_PERIOD: y, Item: n }) => (n === selectIndustry && /([A-Z]{1})\./.test(n) === true))
                         let yearsArray = []
                         let industryGdpArray = []
@@ -136,11 +137,9 @@
                             yearsArray.push(r.TIME_PERIOD)
                             industryGdpArray.push(Number.parseFloat(r.Item_VALUE))
                         }
-
                         barChart(selectIndustry, yearsArray, industryGdpArray)
                     })
                 })
-
                 .catch(function (error) {
                     alert('some bad thing happend')
                     alert(error)
@@ -149,17 +148,20 @@
             function generateIndustrySelector(industryArray) {
                 let arr = []
                 for (let i = 0; i < industryArray.length; i++) {
-                    arr[i] = "<option>" + industryArray[i].Item + "</option>"
+                    arr[i] = `<a class="dropdown-item">` + industryArray[i].Item + `</a>`
                 }
                 let industrySelected = arr.join('\n')
                 return `
-                <a>請選取產業別：</a>
-                <select name="" id="select-indu">
-                    ${industrySelected}
-                </select>`
+                <div class="dropdown" id="select-btn">
+                    <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
+                        aria-haspopup="true" aria-expanded="false">請選取產業</button>
+                    <div class="dropdown-menu" id="select-indu" aria-labelledby="dropdownMenuButton">
+                        ${industrySelected}
+                    </div>
+                </div>
+                `
             }
         })
     })
 </script>
-
 </html>
