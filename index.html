@@ -1,10 +1,163 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-	<meta charset="UTF-8">
-	<title>Document</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0 user-scalable=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+        integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+        integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
+        integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+        crossorigin="anonymous"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <style type="text/css"></style>
+    <title>Document</title>
 </head>
+
 <body>
-	<h1>123test</h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <select name="" id="select-year">
+                    <option value="2018">2018</option>
+                    <option value="2017">2017</option>
+                    <option value="2016">2016</option>
+                    <option value="2015">2015</option>
+                    <option value="2014">2014</option>
+                    <option value="2013">2013</option>
+                    <option value="2012">2012</option>
+                    <option value="2011">2011</option>
+                    <option value="2010">2010</option>
+                    <option value="2009">2009</option>
+                    <option value="2008">2008</option>
+                    <option value="2007">2007</option>
+                    <option value="2006">2006</option>
+                    <option value="2005">2005</option>
+                    <option value="2004">2004</option>
+                    <option value="2003">2003</option>
+                    <option value="2002">2002</option>
+                    <option value="2001">2001</option>
+                    <option value="2000">2000</option>
+                </select>
+            </div>
+            <div class="col-12" id="pieChart-conrainer"></div>
+            <div class="user-data col-12"></div></div>
+            <div class="col-12" id="barChart-conrainer"></div>
+        </div>
+    </div>
+
 </body>
+<script>
+    function pieChart(parameter, year) {
+        Highcharts.chart('pieChart-conrainer', {
+            chart: {
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false,
+                type: 'pie'
+            },
+            title: {
+                text: year + ' 年國內生產毛額（按產業別）'
+            },
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    dataLabels: {
+                        enabled: true,
+                        format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                        style: {
+                            color: (Highcharts.theme && Highcharts.theme.contrastTextColor) ||
+                                'black'
+                        }
+                    }
+                }
+            },
+            series: [{
+                name: 'Brands',
+                colorByPoint: true,
+                data: parameter
+            }]
+        });
+    }
+    function barChart(selectIndustry, yearsArray, industryGdpArray){
+        Highcharts.chart('barChart-conrainer', {
+            chart: {
+                type: 'column'
+            },
+            title: {
+                text: '產業年度GDP（百分比）'
+            },
+            xAxis: {
+                categories: yearsArray
+            },
+            credits: {
+                enabled: false
+            },
+            series: [{ name: selectIndustry, data: industryGdpArray }]
+        });
+    }
+    $(document).ready(function () {
+        $('#select-year').on('change', function (event) {
+            fetch(`https://raw.githubusercontent.com/Ancientshield/Demo/master/income.json`)
+                .then(function (response) {
+                    //將資料轉成JSON
+                    return response.json();
+                })
+                .then(function (data) {
+
+                    let selectYear = $('#select-year').val()
+                    let industryArray = data.filter(({TIME_PERIOD: y, Item: n}) => (y === selectYear && /([A-Z]{1})\./.test(n) === true))
+                    let result = industryArray.map(({"Item": name,"Item_VALUE": gdpString}) => ({name,y: Number.parseFloat(gdpString)}))
+                    //呼叫圓餅圖
+                    pieChart(result, selectYear)
+
+                    let html = generateIndustrySelector(industryArray)
+                    $('.user-data').empty().append(html)
+
+                    $('.user-data').on('change', '#select-indu', function (event) {
+                        let selectIndustry = $('#select-indu').val();
+                        let r2 = data.filter(({ TIME_PERIOD: y, Item: n }) => (n === selectIndustry && /([A-Z]{1})\./.test(n) === true))
+                        let yearsArray = []
+                        let industryGdpArray = []
+                        for (let r of r2) {
+                            yearsArray.push(r.TIME_PERIOD)
+                            industryGdpArray.push(Number.parseFloat(r.Item_VALUE))
+                        }
+
+                        barChart(selectIndustry, yearsArray, industryGdpArray)
+                    })
+                })
+
+                .catch(function (error) {
+                    alert('some bad thing happend')
+                    alert(error)
+                })
+
+            function generateIndustrySelector(industryArray) {
+                let arr = []
+                for (let i = 0; i < industryArray.length; i++) {
+                    arr[i] = "<option>" + industryArray[i].Item + "</option>"
+                }
+                let industrySelected = arr.join('\n')
+                return `
+                <select name="" id="select-indu">
+                    ${industrySelected}
+                </select>`
+            }
+        })
+    })
+</script>
+
 </html>
