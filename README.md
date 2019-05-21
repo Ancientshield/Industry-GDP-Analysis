@@ -1,12 +1,6 @@
-## Welcome to GitHub Pages
+## 2000-2018年度國內生產毛額（按產業別分類）
 
-You can use the [editor on GitHub](https://github.com/Ancientshield/Demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+國內生產總值（英語：Gross Domestic Product，縮寫：GDP），台灣亦稱國內生產毛額，在描述地區性生產時稱本地生產總值或地區生產總值，是一定時期內（一個季度或一年），一個區域內的經濟活動中所生產出之全部最終成果（產品和勞務）的市場價值（market value）。國內生產總值是國民經濟核算的核心指標，在衡量一個國家或地區經濟狀況和發展水準亦有相當重要性。
 
 ```markdown
 Syntax highlighted code block
