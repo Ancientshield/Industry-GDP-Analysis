@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0 user-scalable=no">
@@ -20,13 +21,14 @@
     <style type="text/css"></style>
     <title>2000-2018國內生產毛額</title>
 </head>
+
 <body>
     <div class="container-fluid">
         <div class="row justify-contant-start">
             <div class="col-6">
                 <div class="dropdown">
-                    <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
-                        aria-haspopup="true" aria-expanded="false">請選取年份</button>
+                    <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton"
+                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">請選取年份</button>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                         <a class="dropdown-item">2018</a>
                         <a class="dropdown-item">2017</a>
@@ -92,13 +94,13 @@
             }]
         });
     }
-    function barChart(selectIndustry, yearsArray, industryGdpArray){
+    function barChart(selectIndustry, yearsArray, industryGdpArray) {
         Highcharts.chart('barChart-conrainer', {
             chart: {
                 type: 'column'
             },
             title: {
-                text: '產業年度GDP（百分比）'
+                text: [{ name: selectIndustry, data: industryGdpArray }]
             },
             xAxis: {
                 categories: yearsArray
@@ -106,7 +108,7 @@
             credits: {
                 enabled: false
             },
-            series: [{ name: selectIndustry, data: industryGdpArray }]
+            series: '產業年度GDP（百分比）'
         });
     }
     $(document).ready(function () {
@@ -119,8 +121,8 @@
                     return response.json();
                 })
                 .then(function (data) {
-                    let industryArray = data.filter(({TIME_PERIOD: y, Item: n}) => (y === selectYear && /([A-Z]{1})\./.test(n) === true))
-                    let result = industryArray.map(({"Item": name,"Item_VALUE": gdpString}) => ({name,y: Number.parseFloat(gdpString)}))
+                    let industryArray = data.filter(({ TIME_PERIOD: y, Item: n }) => (y === selectYear && /([A-Z]{1})\./.test(n) === true))
+                    let result = industryArray.map(({ "Item": name, "Item_VALUE": gdpString }) => ({ name, y: Number.parseFloat(gdpString) }))
                     //呼叫圓餅圖
                     pieChart(result, selectYear)
 
@@ -164,4 +166,5 @@
         })
     })
 </script>
+
 </html>
