@@ -100,7 +100,7 @@
                 type: 'column'
             },
             title: {
-                text: [{ name: selectIndustry, data: industryGdpArray }]
+                text: `${selectIndustry}`
             },
             xAxis: {
                 categories: yearsArray
@@ -108,7 +108,7 @@
             credits: {
                 enabled: false
             },
-            series: '產業年度GDP（百分比）'
+            series: [{ name: selectIndustry, data: industryGdpArray }]
         });
     }
     $(document).ready(function () {
