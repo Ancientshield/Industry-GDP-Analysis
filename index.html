@@ -115,7 +115,7 @@
         $('.dropdown-item').on('click', function (event) {
             let selectYear = $(this).text()
             $('.dropdown button').text(selectYear)
-            fetch(`https://raw.githubusercontent.com/Ancientshield/Demo/master/income.json`)
+            fetch(`https://raw.githubusercontent.com/Ancientshield/Industry-GDP-Analysis/refs/heads/master/income.json`)
                 .then(function (response) {
                     //將資料轉成JSON
                     return response.json();
