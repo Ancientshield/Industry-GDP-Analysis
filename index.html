@@ -1,159 +1,196 @@
 <!DOCTYPE html>
 <html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1.0, maximum-scale=1.0 user-scalable=no"
+		/>
+		<link
+			rel="stylesheet"
+			href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+			integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+			crossorigin="anonymous"
+		/>
+		<script
+			src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+			integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+			crossorigin="anonymous"
+		></script>
+		<script
+			src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+			integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
+			crossorigin="anonymous"
+		></script>
+		<script
+			src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
+			integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+			crossorigin="anonymous"
+		></script>
+		<script src="https://code.highcharts.com/highcharts.js"></script>
+		<script src="https://code.highcharts.com/modules/exporting.js"></script>
+		<script src="https://code.highcharts.com/modules/export-data.js"></script>
+		<style type="text/css"></style>
+		<title>2000-2018國內生產毛額</title>
+	</head>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0 user-scalable=no">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
-        integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
-        integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
-        crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
-        integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
-        crossorigin="anonymous"></script>
-    <script src="https://code.highcharts.com/highcharts.js"></script>
-    <script src="https://code.highcharts.com/modules/exporting.js"></script>
-    <script src="https://code.highcharts.com/modules/export-data.js"></script>
-    <style type="text/css"></style>
-    <title>2000-2018國內生產毛額</title>
-</head>
+	<body>
+		<div class="container-fluid">
+			<div class="row justify-contant-start">
+				<div class="col-6">
+					<div class="dropdown">
+						<button
+							class="btn btn-primary dropdown-toggle"
+							type="button"
+							id="dropdownMenuButton"
+							data-toggle="dropdown"
+							aria-haspopup="true"
+							aria-expanded="false"
+						>
+							請選取年份
+						</button>
+						<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+							<a class="dropdown-item">2018</a>
+							<a class="dropdown-item">2017</a>
+							<a class="dropdown-item">2016</a>
+							<a class="dropdown-item">2015</a>
+							<a class="dropdown-item">2014</a>
+							<a class="dropdown-item">2013</a>
+							<a class="dropdown-item">2012</a>
+							<a class="dropdown-item">2011</a>
+							<a class="dropdown-item">2010</a>
+							<a class="dropdown-item">2009</a>
+							<a class="dropdown-item">2008</a>
+							<a class="dropdown-item">2007</a>
+							<a class="dropdown-item">2006</a>
+							<a class="dropdown-item">2005</a>
+							<a class="dropdown-item">2004</a>
+							<a class="dropdown-item">2003</a>
+							<a class="dropdown-item">2002</a>
+							<a class="dropdown-item">2001</a>
+							<a class="dropdown-item">2000</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-12" id="pieChart-conrainer"></div>
+				<div class="user-data col-6"></div>
+				<div class="col-12" id="barChart-conrainer"></div>
+			</div>
+		</div>
+	</body>
+	<script>
+		function pieChart(parameter, year) {
+			Highcharts.chart('pieChart-conrainer', {
+				chart: {
+					plotBackgroundColor: null,
+					plotBorderWidth: null,
+					plotShadow: false,
+					type: 'pie',
+				},
+				title: {
+					text: year + ' 年國內生產毛額（按產業別）',
+				},
+				tooltip: {
+					pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>',
+				},
+				plotOptions: {
+					pie: {
+						allowPointSelect: true,
+						cursor: 'pointer',
+						dataLabels: {
+							enabled: true,
+							format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+							style: {
+								color:
+									(Highcharts.theme && Highcharts.theme.contrastTextColor) ||
+									'black',
+							},
+						},
+					},
+				},
+				series: [
+					{
+						name: 'Brands',
+						colorByPoint: true,
+						data: parameter,
+					},
+				],
+			});
+		}
+		function barChart(selectIndustry, yearsArray, industryGdpArray) {
+			Highcharts.chart('barChart-conrainer', {
+				chart: {
+					type: 'column',
+				},
+				title: {
+					text: `${selectIndustry}`,
+				},
+				xAxis: {
+					categories: yearsArray,
+				},
+				credits: {
+					enabled: false,
+				},
+				series: [{ name: '產業貢獻GDP(百分比)', data: industryGdpArray }],
+			});
+		}
+		$(document).ready(function () {
+			$('.dropdown-item').on('click', function (event) {
+				let selectYear = $(this).text();
+				$('.dropdown button').text(selectYear);
+				fetch(
+					`https://raw.githubusercontent.com/Ancientshield/Industry-GDP-Analysis/refs/heads/master/income.json`
+				)
+					.then(function (response) {
+						//將資料轉成JSON
+						return response.json();
+					})
+					.then(function (data) {
+						let industryArray = data.filter(
+							({ TIME_PERIOD: y, Item: n }) =>
+								y === selectYear && /([A-Z]{1})\./.test(n) === true
+						);
+						let result = industryArray.map(
+							({ Item: name, Item_VALUE: gdpString }) => ({
+								name,
+								y: Number.parseFloat(gdpString),
+							})
+						);
+						//呼叫圓餅圖
+						pieChart(result, selectYear);
 
-<body>
-    <div class="container-fluid">
-        <div class="row justify-contant-start">
-            <div class="col-6">
-                <div class="dropdown">
-                    <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton"
-                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">請選取年份</button>
-                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                        <a class="dropdown-item">2018</a>
-                        <a class="dropdown-item">2017</a>
-                        <a class="dropdown-item">2016</a>
-                        <a class="dropdown-item">2015</a>
-                        <a class="dropdown-item">2014</a>
-                        <a class="dropdown-item">2013</a>
-                        <a class="dropdown-item">2012</a>
-                        <a class="dropdown-item">2011</a>
-                        <a class="dropdown-item">2010</a>
-                        <a class="dropdown-item">2009</a>
-                        <a class="dropdown-item">2008</a>
-                        <a class="dropdown-item">2007</a>
-                        <a class="dropdown-item">2006</a>
-                        <a class="dropdown-item">2005</a>
-                        <a class="dropdown-item">2004</a>
-                        <a class="dropdown-item">2003</a>
-                        <a class="dropdown-item">2002</a>
-                        <a class="dropdown-item">2001</a>
-                        <a class="dropdown-item">2000</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12" id="pieChart-conrainer"></div>
-            <div class="user-data col-6"></div>
-            <div class="col-12" id="barChart-conrainer"></div>
-        </div>
-    </div>
-</body>
-<script>
-    function pieChart(parameter, year) {
-        Highcharts.chart('pieChart-conrainer', {
-            chart: {
-                plotBackgroundColor: null,
-                plotBorderWidth: null,
-                plotShadow: false,
-                type: 'pie'
-            },
-            title: {
-                text: year + ' 年國內生產毛額（按產業別）'
-            },
-            tooltip: {
-                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
-            },
-            plotOptions: {
-                pie: {
-                    allowPointSelect: true,
-                    cursor: 'pointer',
-                    dataLabels: {
-                        enabled: true,
-                        format: '<b>{point.name}</b>: {point.percentage:.1f} %',
-                        style: {
-                            color: (Highcharts.theme && Highcharts.theme.contrastTextColor) ||
-                                'black'
-                        }
-                    }
-                }
-            },
-            series: [{
-                name: 'Brands',
-                colorByPoint: true,
-                data: parameter
-            }]
-        });
-    }
-    function barChart(selectIndustry, yearsArray, industryGdpArray) {
-        Highcharts.chart('barChart-conrainer', {
-            chart: {
-                type: 'column'
-            },
-            title: {
-                text: `${selectIndustry}`
-            },
-            xAxis: {
-                categories: yearsArray
-            },
-            credits: {
-                enabled: false
-            },
-            series: [{ name: '產業貢獻GDP(百分比)', data: industryGdpArray }]
-        });
-    }
-    $(document).ready(function () {
-        $('.dropdown-item').on('click', function (event) {
-            let selectYear = $(this).text()
-            $('.dropdown button').text(selectYear)
-            fetch(`https://raw.githubusercontent.com/Ancientshield/Industry-GDP-Analysis/refs/heads/master/income.json`)
-                .then(function (response) {
-                    //將資料轉成JSON
-                    return response.json();
-                })
-                .then(function (data) {
-                    let industryArray = data.filter(({ TIME_PERIOD: y, Item: n }) => (y === selectYear && /([A-Z]{1})\./.test(n) === true))
-                    let result = industryArray.map(({ "Item": name, "Item_VALUE": gdpString }) => ({ name, y: Number.parseFloat(gdpString) }))
-                    //呼叫圓餅圖
-                    pieChart(result, selectYear)
+						let html = generateIndustrySelector(industryArray);
+						$('.user-data').empty().append(html);
 
-                    let html = generateIndustrySelector(industryArray)
-                    $('.user-data').empty().append(html)
+						$('#select-indu .dropdown-item').on('click', function (event) {
+							let selectIndustry = $(this).text();
+							$('#select-btn.dropdown button').text(selectIndustry);
+							let r2 = data.filter(
+								({ TIME_PERIOD: y, Item: n }) =>
+									n === selectIndustry && /([A-Z]{1})\./.test(n) === true
+							);
+							let yearsArray = [];
+							let industryGdpArray = [];
+							for (let r of r2) {
+								yearsArray.push(r.TIME_PERIOD);
+								industryGdpArray.push(Number.parseFloat(r.Item_VALUE));
+							}
+							barChart(selectIndustry, yearsArray, industryGdpArray);
+						});
+					})
+					.catch(function (error) {
+						alert('some bad thing happend');
+						alert(error);
+					});
 
-                    $('#select-indu .dropdown-item').on('click', function (event) {
-                        let selectIndustry = $(this).text()
-                        $('#select-btn.dropdown button').text(selectIndustry)
-                        let r2 = data.filter(({ TIME_PERIOD: y, Item: n }) => (n === selectIndustry && /([A-Z]{1})\./.test(n) === true))
-                        let yearsArray = []
-                        let industryGdpArray = []
-                        for (let r of r2) {
-                            yearsArray.push(r.TIME_PERIOD)
-                            industryGdpArray.push(Number.parseFloat(r.Item_VALUE))
-                        }
-                        barChart(selectIndustry, yearsArray, industryGdpArray)
-                    })
-                })
-                .catch(function (error) {
-                    alert('some bad thing happend')
-                    alert(error)
-                })
-
-            function generateIndustrySelector(industryArray) {
-                let arr = []
-                for (let i = 0; i < industryArray.length; i++) {
-                    arr[i] = `<a class="dropdown-item">` + industryArray[i].Item + `</a>`
-                }
-                let industrySelected = arr.join('\n')
-                return `
+				function generateIndustrySelector(industryArray) {
+					let arr = [];
+					for (let i = 0; i < industryArray.length; i++) {
+						arr[i] =
+							`<a class="dropdown-item">` + industryArray[i].Item + `</a>`;
+					}
+					let industrySelected = arr.join('\n');
+					return `
                 <div class="dropdown" id="select-btn">
                     <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
                         aria-haspopup="true" aria-expanded="false">請選取產業</button>
@@ -161,10 +198,9 @@
                         ${industrySelected}
                     </div>
                 </div>
-                `
-            }
-        })
-    })
-</script>
-
+                `;
+				}
+			});
+		});
+	</script>
 </html>

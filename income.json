@@ -1,3726 +1,3726 @@
 [
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.38"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.01"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.15"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.28"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.29"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.15"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.8"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.13"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.44"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.08"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.08"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.27"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.16"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.14"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.19"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "6.3"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.22"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "6.54"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "6.42"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.22"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "4.28"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2000",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.66"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.09"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-1.76"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.08"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.01"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.35"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.2"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.15"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.29"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.29"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.07"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.03"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.09"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.08"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.22"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.07"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.15"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-1.57"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.24"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.1"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-1.91"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-1.26"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.09"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-2.2"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.38"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2001",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.25"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.15"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.01"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.83"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.15"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.08"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.55"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.16"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.01"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.27"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.16"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.14"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.06"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.1"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.03"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.32"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.18"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.06"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.19"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "5.14"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.09"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.14"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "5.37"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "5.57"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.15"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "3.1"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.12"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2002",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.78"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.05"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.83"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.09"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.08"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.45"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.03"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.18"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.11"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.37"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.09"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.19"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.23"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "4.61"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.09"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.07"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "4.77"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "4.12"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.84"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.95"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2003",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.21"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.09"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.87"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.12"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.17"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.07"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.23"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.08"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.21"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.56"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.29"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.09"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.12"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.08"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.17"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.06"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.06"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "6.16"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.2"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.2"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "6.56"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "6.51"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.09"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "3.21"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "3.44"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2004",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.68"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.06"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.36"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.06"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.11"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.1"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.11"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.09"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.34"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.34"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.13"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.11"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.09"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.05"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.16"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "5.04"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.01"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "5.09"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "5.42"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.06"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.49"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.66"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2005",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.97"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.2"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.03"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.11"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.01"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.1"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.99"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.11"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.1"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.14"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.24"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.64"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.22"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.19"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.01"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.2"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.12"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "5.45"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.03"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "5.45"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "5.62"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.2"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.24"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "3.01"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2006",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.1"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "3.58"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.1"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.07"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.02"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.16"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.12"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.09"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.51"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.53"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.16"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.13"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.1"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.12"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.12"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.11"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "6.59"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "6.63"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "6.52"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "3.58"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "3.05"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2007",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.5"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.12"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.24"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.15"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.04"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.13"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.26"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.13"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.08"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.09"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.07"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.1"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.07"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.01"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.27"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.05"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.07"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.15"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.7"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.13"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.28"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2008",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.19"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.04"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.69"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.09"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.01"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.28"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.33"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.15"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.09"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.53"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.19"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.05"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.06"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.11"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.12"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-1.39"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.13"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.1"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-1.62"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-1.57"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.04"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.89"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.69"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2009",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.38"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.06"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "6.06"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.07"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.34"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.1"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.21"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.22"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.33"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.53"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.41"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.12"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.12"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.24"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.11"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.12"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "10.21"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.27"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.31"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "10.79"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "10.63"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "6.56"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "4.19"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2010",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "3.4"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.07"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.01"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.97"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.01"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.63"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.06"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.21"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.12"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.26"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.14"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.09"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.06"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.12"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.15"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.06"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "4.03"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.07"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "4.08"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "3.8"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.07"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.03"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.98"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2011",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.87"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.05"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.07"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.04"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.19"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.06"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.1"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.07"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.15"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.07"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.01"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.93"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.05"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.86"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.06"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.05"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.07"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.84"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2012",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.35"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.48"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.27"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.22"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.1"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.11"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.26"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.25"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.05"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.89"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.13"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.07"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.2"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.55"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.5"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2013",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.27"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.35"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.72"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.1"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.49"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.17"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.07"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.13"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.13"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "4.39"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.06"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.1"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "4.55"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "4.02"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.4"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.12"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2014",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.95"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.15"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.01"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.08"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.1"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.06"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.16"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.25"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.17"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.07"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.01"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.45"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.01"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.44"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.81"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.15"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.21"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.8"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2015",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.43"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.17"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.01"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.92"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.1"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.04"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.16"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.09"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.11"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.15"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.07"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.01"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.04"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.08"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.01"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.01"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.54"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.1"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.66"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.51"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.17"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.99"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.84"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2016",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.81"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.15"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.64"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.01"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.01"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.61"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.17"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.01"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.1"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.33"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.13"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.02"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.05"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.06"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "-0.04"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "3.28"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.06"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "3.37"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "3.08"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.15"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.64"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.58"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2017",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.12"
-    },
-    {
-        "Item": "A.農、林、漁、牧業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "B.礦業及土石採取業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0"
-    },
-    {
-        "Item": "C.製造業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.03"
-    },
-    {
-        "Item": "D.電力及燃氣供應業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "E.用水供應及污染整治業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "F.營造業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.08"
-    },
-    {
-        "Item": "G.批發及零售業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.55"
-    },
-    {
-        "Item": "H.運輸及倉儲業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.15"
-    },
-    {
-        "Item": "I.住宿及餐飲業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.07"
-    },
-    {
-        "Item": "J.資訊及通訊傳播業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "K.金融及保險業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.24"
-    },
-    {
-        "Item": "L.不動產及住宅服務業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.13"
-    },
-    {
-        "Item": "M.專業、科學及技術服務業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "N.支援服務業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "O.公共行政及國防；強制性社會安全",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.06"
-    },
-    {
-        "Item": "P.教育服務業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.01"
-    },
-    {
-        "Item": "Q.醫療保健及社會工作服務業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.1"
-    },
-    {
-        "Item": "R.藝術、娛樂及休閒服務業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "S.其他服務業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.1"
-    },
-    {
-        "Item": "合計",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.74"
-    },
-    {
-        "Item": "進口稅",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.03"
-    },
-    {
-        "Item": "加值型營業稅",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.02"
-    },
-    {
-        "Item": "總計(生產面)",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.79"
-    },
-    {
-        "Item": "GDP",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "2.63"
-    },
-    {
-        "Item": "按三級產業分:農業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.04"
-    },
-    {
-        "Item": "按三級產業分:工業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.15"
-    },
-    {
-        "Item": "按三級產業分:服務業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "1.6"
-    },
-    {
-        "Item": "補充項目:ICT產業",
-        "TIME_PERIOD": "2018",
-        "FREQ": "A",
-        "TYPE": "原始值",
-        "Item_VALUE": "0.68"
-    }
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.38"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.01"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.15"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.28"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.29"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.15"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.8"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.13"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.44"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.08"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.08"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.27"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.16"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.14"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.19"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "6.3"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.22"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "6.54"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "6.42"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.22"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "4.28"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2000",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.66"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.09"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-1.76"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.08"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.01"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.35"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.2"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.15"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.29"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.29"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.07"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.03"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.09"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.08"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.22"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.07"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.15"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-1.57"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.24"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.1"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-1.91"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-1.26"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.09"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-2.2"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.38"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2001",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.25"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.15"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.01"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.83"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.15"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.08"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.55"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.16"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.01"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.27"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.16"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.14"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.06"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.1"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.03"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.32"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.18"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.06"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.19"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "5.14"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.09"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.14"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "5.37"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "5.57"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.15"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "3.1"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.12"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2002",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.78"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.05"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.83"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.09"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.08"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.45"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.03"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.18"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.11"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.37"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.09"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.19"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.23"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "4.61"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.09"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.07"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "4.77"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "4.12"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.84"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.95"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2003",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.21"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.09"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.87"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.12"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.17"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.07"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.23"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.08"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.21"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.56"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.29"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.09"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.12"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.08"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.17"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.06"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.06"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "6.16"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.2"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.2"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "6.56"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "6.51"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.09"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "3.21"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "3.44"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2004",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.68"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.06"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.36"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.06"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.11"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.1"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.11"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.09"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.34"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.34"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.13"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.11"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.09"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.05"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.16"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "5.04"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.01"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "5.09"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "5.42"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.06"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.49"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.66"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2005",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.97"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.2"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.03"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.11"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.01"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.1"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.99"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.11"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.1"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.14"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.24"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.64"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.22"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.19"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.01"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.2"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.12"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "5.45"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.03"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "5.45"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "5.62"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.2"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.24"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "3.01"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2006",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.1"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "3.58"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.1"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.07"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.02"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.16"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.12"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.09"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.51"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.53"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.16"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.13"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.1"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.12"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.12"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.11"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "6.59"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "6.63"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "6.52"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "3.58"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "3.05"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2007",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.5"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.12"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.24"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.15"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.04"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.13"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.26"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.13"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.08"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.09"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.07"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.1"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.07"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.01"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.27"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.05"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.07"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.15"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.7"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.13"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.28"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2008",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.19"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.04"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.69"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.09"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.01"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.28"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.33"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.15"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.09"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.53"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.19"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.05"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.06"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.11"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.12"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-1.39"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.13"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.1"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-1.62"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-1.57"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.04"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.89"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.69"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2009",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.38"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.06"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "6.06"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.07"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.34"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.1"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.21"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.22"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.33"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.53"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.41"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.12"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.12"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.24"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.11"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.12"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "10.21"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.27"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.31"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "10.79"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "10.63"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "6.56"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "4.19"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2010",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "3.4"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.07"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.01"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.97"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.01"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.63"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.06"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.21"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.12"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.26"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.14"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.09"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.06"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.12"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.15"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.06"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "4.03"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.07"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "4.08"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "3.8"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.07"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.03"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.98"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2011",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.87"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.05"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.07"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.04"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.19"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.06"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.1"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.07"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.15"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.07"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.01"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.93"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.05"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.86"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.06"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.05"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.07"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.84"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2012",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.35"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.48"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.27"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.22"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.1"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.11"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.26"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.25"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.05"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.89"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.13"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.07"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.2"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.55"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.5"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2013",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.27"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.35"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.72"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.1"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.49"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.17"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.07"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.13"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.13"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "4.39"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.06"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.1"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "4.55"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "4.02"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.4"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.12"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2014",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.95"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.15"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.01"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.08"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.1"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.06"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.16"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.25"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.17"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.07"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.01"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.45"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.01"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.44"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.81"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.15"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.21"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.8"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2015",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.43"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.17"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.01"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.92"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.1"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.04"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.16"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.09"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.11"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.15"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.07"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.01"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.04"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.08"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.01"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.01"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.54"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.1"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.66"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.51"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.17"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.99"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.84"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2016",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.81"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.15"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.64"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.01"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.01"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.61"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.17"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.01"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.1"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.33"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.13"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.02"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.05"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.06"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "-0.04"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "3.28"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.06"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "3.37"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "3.08"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.15"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.64"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.58"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2017",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.12"
+	},
+	{
+		"Item": "A.農、林、漁、牧業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "B.礦業及土石採取業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0"
+	},
+	{
+		"Item": "C.製造業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.03"
+	},
+	{
+		"Item": "D.電力及燃氣供應業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "E.用水供應及污染整治業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "F.營造業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.08"
+	},
+	{
+		"Item": "G.批發及零售業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.55"
+	},
+	{
+		"Item": "H.運輸及倉儲業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.15"
+	},
+	{
+		"Item": "I.住宿及餐飲業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.07"
+	},
+	{
+		"Item": "J.資訊及通訊傳播業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "K.金融及保險業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.24"
+	},
+	{
+		"Item": "L.不動產及住宅服務業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.13"
+	},
+	{
+		"Item": "M.專業、科學及技術服務業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "N.支援服務業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "O.公共行政及國防；強制性社會安全",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.06"
+	},
+	{
+		"Item": "P.教育服務業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.01"
+	},
+	{
+		"Item": "Q.醫療保健及社會工作服務業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.1"
+	},
+	{
+		"Item": "R.藝術、娛樂及休閒服務業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "S.其他服務業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.1"
+	},
+	{
+		"Item": "合計",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.74"
+	},
+	{
+		"Item": "進口稅",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.03"
+	},
+	{
+		"Item": "加值型營業稅",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.02"
+	},
+	{
+		"Item": "總計(生產面)",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.79"
+	},
+	{
+		"Item": "GDP",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "2.63"
+	},
+	{
+		"Item": "按三級產業分:農業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.04"
+	},
+	{
+		"Item": "按三級產業分:工業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.15"
+	},
+	{
+		"Item": "按三級產業分:服務業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "1.6"
+	},
+	{
+		"Item": "補充項目:ICT產業",
+		"TIME_PERIOD": "2018",
+		"FREQ": "A",
+		"TYPE": "原始值",
+		"Item_VALUE": "0.68"
+	}
 ]
